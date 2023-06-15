@@ -1,5 +1,12 @@
 # Get some good advice
 
+## Live Link
+[https://advice-app-react-pi.vercel.app/](https://advice-app-react-pi.vercel.app/)
+
+## Screenshots
+
+![image](https://github.com/ojasaklechayt/advice-app-react/assets/90605717/c2078b11-0ac4-4e1c-84f7-ffc11ab9b32f)
+
 ## [Use the application](https://transcendent-gnome-62e190.netlify.app/)
 
 ## Getting Started with Create React App
